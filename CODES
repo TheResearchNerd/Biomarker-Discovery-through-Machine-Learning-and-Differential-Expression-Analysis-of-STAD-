@@ -159,10 +159,12 @@ upreg.genes <- getBM(attributes = c('ensembl_gene_id', 'hgnc_symbol'),
                      filters = 'ensembl_gene_id',
                      values = upreg.genes,
                      mart = mart)$hgnc_symbol
+View(upreg.genes)
 dnreg.genes <- getBM(attributes = c('ensembl_gene_id', 'hgnc_symbol'),
                      filters = 'ensembl_gene_id',
                      values = dnreg.genes,
                      mart = mart)$hgnc_symbol
+View(dnreg.genes)
 # EA for up- and down-regulated genes 
 up.EA <- TCGAanalyze_EAcomplete(TFname = "Upregulated", upreg.genes) 
 dn.EA <- TCGAanalyze_EAcomplete(TFname = "Downregulated", dnreg.genes)
