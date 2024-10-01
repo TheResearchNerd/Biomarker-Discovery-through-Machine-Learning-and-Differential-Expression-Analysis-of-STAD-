@@ -19,6 +19,7 @@ Benedict Orile Ajunku (@orile)
 **INTRODUCTION**
 
 Stomach adenocarcinoma, or gastric cancer, is a formidable malignancy that poses a significant threat to the digestive system worldwide. \[1]. It ranks fourth in incidence after lung, breast, and colorectal cancer and second in cancer-related mortality after lung cancer. One million people are diagnosed with gastric cancer worldwide, primarily in developing countries \[2]
+
 ![STAD](https://github.com/user-attachments/assets/00d79f3b-f238-48a3-b716-c15d6af7b21b)
 \[3]
 
